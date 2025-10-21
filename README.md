@@ -3,6 +3,6 @@
 
 ## Установка
 ```bash
-git clone https://github.com/ваш-логин/project-mrak.git
+git clone (https://github.com/61palipoll-wq/project-mrak.git)
 cd project-mrak
 pip install -r requirements.txt

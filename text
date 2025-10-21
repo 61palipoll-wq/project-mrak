@@ -1,0 +1,9 @@
+project-mrak/
+├── src/
+│   ├── __init__.py
+│   ├── main.py          # Основной код
+│   ├── voice_engine.py  # Работа с голосом
+│   └── commands.py      # Команды Мрака
+├── requirements.txt     # Зависимости
+├── README.md           # Описание проекта
+└── config.json         # Настройки
